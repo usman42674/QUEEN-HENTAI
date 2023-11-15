@@ -1,5 +1,5 @@
 { 
-    "name": "HENTAI-QUEEN",
+    "name": "𝐂𝐘𝐁𝐄𝐑_𝐖𝐀𝐑𝐑𝐈𝐎𝐑",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -20,21 +20,21 @@
         "js-whatsapp",
         "whatsapp",
         "dinuwa",
-        "QUEEN-HENTAI-md",
+        "𝐂𝐘𝐁𝐄𝐑_𝐖𝐀𝐑𝐑𝐈𝐎𝐑",
         "multi-device",
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/dinuwah/HENTAI-QUEEN",
+    "homepage": "https://github.com/usman42674",
     "author": {
-        "name": "Dinuwa Official²⁰²³"
+        "name": "D𓄂≛͙⃝͙𝑴𝒓 𝑴𝒂𝒏𝒊 Official²⁰²³"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dinuwah/HENTAI-QUEEN.git"
+        "url": "git+https://github.com/usman42674/QUEEN-HENTAI"
     },
     "bugs": {
-        "url": "https://github.com/dinuwah/HENTAI-QUEEN/issues"
+        "url": "https://github.com/usman42674/QUEEN-HENTAI"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
